@@ -1,5 +1,5 @@
 <div align="center">
-<img  src='github-header-image.png' width="100%" data-canonical-src="github-header-image.png" style="max-width:100%;"/>
+<img  src='banner.png' width="100%" data-canonical-src="banner.png" style="max-width:100%;"/>
 </div>
 <h1 align="center">Hi 👋, I'm Sabhya</h1>
 <h3 align="center">A passionate frontend developer from Haryana, India.</h3>
