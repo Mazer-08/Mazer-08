@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabhya</h1>
 <h3 align="center">A passionate frontend developer from Haryana, India.</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw0C_HOaEK0_Y2YktEoZMNBZ&ust=1696239610855000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjmyo7H1IEDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazer-08&label=Profile%20views&color=0e75b6&style=flat" alt="mazer-08" /> </p>
 
