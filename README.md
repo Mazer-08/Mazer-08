@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabhya</h1>
 <h3 align="center">A passionate frontend developer from Haryana, India.</h3>
-![e426702edf874b181aced1e2fa5c6cde](https://github.com/Mazer-08/Mazer-08/assets/96239473/15de17ba-bde3-4ef4-925c-1abc6be4336c)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazer-08&label=Profile%20views&color=0e75b6&style=flat" alt="mazer-08" /> </p>
 
 - 🌱 I’m currently learning **React**
