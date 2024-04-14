@@ -1,7 +1,7 @@
 <div align="center">
 <img  src='UpdatedBanner.png' width="100%" data-canonical-src="banner.png" style="max-width:100%;"/>
 </div>
-<h1 align="center">🤓 Let's geek out over algorithms, build awesome projects, and maybe share a laugh or two in the wonderful world of code!</h1> <br> <h3 align="center">P.S. If you're a fan of "The Office," you'll find a few Dundies hidden in my code! 😉</h3>
+<h3 align="center">P.S. If you're a fan of "The Office," you'll find a few Dundies hidden in my code! 😉</h3>
 
 - 🌱 I’m currently learning **Socket.io, Next.js, Redux Toolkit**
 
