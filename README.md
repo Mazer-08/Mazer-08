@@ -1,5 +1,6 @@
 <div align="center">
-<img  src='NewUpdatedBanner.png' width="100%" data-canonical-src="banner.png" style="max-width:100%;"/>
+<img width="1834" alt="UpdatedBannerFinal" src="https://github.com/Mazer-08/Mazer-08/assets/96239473/267d120f-47be-4be6-94be-a39c5083f166">
+
 </div>
 <h3 align="center">P.S. If you're a fan of "The Office," you'll find a few Dundies hidden in my code! 😉</h3>
 
