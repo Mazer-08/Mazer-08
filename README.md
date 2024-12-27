@@ -1,14 +1,14 @@
 <div align="center">
-<img width="1834" alt="" src="https://github.com/Mazer-08/Mazer-08/assets/96239473/267d120f-47be-4be6-94be-a39c5083f166">
+<img width="1834" alt="" src="https://res.cloudinary.com/mazer/image/upload/v1735312482/GithubBanner/Group_4_skg1so.png">
 
 </div>
-<h3 align="center">P.S. If you're a fan of "The Office," you'll find a few Dundies hidden in my code! 😉</h3>
+<h3 align="center">P.S. If you're a fan of "The Office," you may find a few Dundies hidden in my code!😵</h3>
 
-- 🌱 I’m currently learning **Socket.io, Next.js, Redux Toolkit**
+- 🌱 I’m currently learning **AWS like EC2, IAM, EBS**
 
 - 👨‍💻 All of my projects are available at [sabhyaks.netlify.app](sabhyaks.netlify.app)
 
-- 💬 Ask me about **The Office & JavaScript, React, Node.js ,Express.js**
+- 💬 Ask me about **The Office & JavaScript, React, Node.js ,Express.js, Redux, Socket.io**
 
 - 📫 How to reach me **sabhya.1624@gmail.com**
 
