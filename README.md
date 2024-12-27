@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">P.S. If you're a fan of "The Office," you may find a few Dundies hidden in my code!😵</h3>
 
-- 🌱 I’m currently learning **AWS like EC2, IAM, EBS**
+- 🌱 I’m currently learning **AWS: EC2, IAM, EBS**
 
 - 👨‍💻 All of my projects are available at [sabhyaks.netlify.app](sabhyaks.netlify.app)
 
