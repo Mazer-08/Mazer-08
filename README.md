@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1834" alt="" src="https://res.cloudinary.com/mazer/image/upload/v1735312482/GithubBanner/Group_4_skg1so.png">
+<img width="1834" alt="" src="https://res.cloudinary.com/mazer/image/upload/v1765296476/banner_zwlg0o.png">
 
 </div>
 <h3 align="center">P.S. If you're a fan of "The Office," you may find a few Dundies hidden in my code!😵</h3>
