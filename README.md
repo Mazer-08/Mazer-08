@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">P.S. If you're a fan of "The Office," you may find a few Dundies hidden in my code!😵</h3>
 
-- 🌱 I’m currently learning **AWS, OpenSearch**
+- 🌱 I’m currently learning about the **Working & Architecture of LLMs**
 
 - 👨‍💻 All of my projects are available at [sabhyaks.netlify.app](sabhyaks.netlify.app)
 
